@@ -1,0 +1,15 @@
+H:\SQITTeaskApp\WebAPI\WebApi.Application\bin\Debug\net5.0\WebApi.Application.deps.json
+H:\SQITTeaskApp\WebAPI\WebApi.Application\bin\Debug\net5.0\WebApi.Application.dll
+H:\SQITTeaskApp\WebAPI\WebApi.Application\bin\Debug\net5.0\ref\WebApi.Application.dll
+H:\SQITTeaskApp\WebAPI\WebApi.Application\bin\Debug\net5.0\WebApi.Application.pdb
+H:\SQITTeaskApp\WebAPI\WebApi.Application\bin\Debug\net5.0\WebApi.Domain.dll
+H:\SQITTeaskApp\WebAPI\WebApi.Application\bin\Debug\net5.0\WebApi.Domain.pdb
+H:\SQITTeaskApp\WebAPI\WebApi.Application\obj\Debug\net5.0\WebApi.Application.csproj.AssemblyReference.cache
+H:\SQITTeaskApp\WebAPI\WebApi.Application\obj\Debug\net5.0\WebApi.Application.GeneratedMSBuildEditorConfig.editorconfig
+H:\SQITTeaskApp\WebAPI\WebApi.Application\obj\Debug\net5.0\WebApi.Application.AssemblyInfoInputs.cache
+H:\SQITTeaskApp\WebAPI\WebApi.Application\obj\Debug\net5.0\WebApi.Application.AssemblyInfo.cs
+H:\SQITTeaskApp\WebAPI\WebApi.Application\obj\Debug\net5.0\WebApi.Application.csproj.CoreCompileInputs.cache
+H:\SQITTeaskApp\WebAPI\WebApi.Application\obj\Debug\net5.0\WebApi.Application.csproj.CopyComplete
+H:\SQITTeaskApp\WebAPI\WebApi.Application\obj\Debug\net5.0\WebApi.Application.dll
+H:\SQITTeaskApp\WebAPI\WebApi.Application\obj\Debug\net5.0\ref\WebApi.Application.dll
+H:\SQITTeaskApp\WebAPI\WebApi.Application\obj\Debug\net5.0\WebApi.Application.pdb
